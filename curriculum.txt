@@ -3,3 +3,4 @@ Kinder Jardin de niños
 Primaria: Marcelino
 Secundaria: ETA4
 Prepa: CETIS108
+Universidad: ITSON 
